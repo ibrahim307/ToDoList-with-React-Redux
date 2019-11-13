@@ -1,0 +1,61 @@
+.container-initial-todo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: solid darkgrey;
+    border-radius: 10px;
+    background-color:#35495D ;
+}
+.form-inline .form-control{
+    margin-left: 309px;
+    width: 485px;
+}
+.container-form{
+    display:flex;
+    flex-direction:column;
+    background-color:#35495D
+}
+.title{
+    display: flex;
+    justify-content: space-around;
+    margin-top:3%
+
+}
+.container-input-add{
+   display:flex;
+ 
+}
+.input-text{
+     width: 96%;
+     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+.button-add{
+    width:5%;
+}
+
+
+.container-newTodo-second-color{
+    background-color: #ECF0F1;
+    color:#95A5A6
+}
+.button-edit{
+    padding-left:87%;
+    width:5%
+}
+.button-delete{
+    width:5%
+}
+.checked{
+    text-decoration: line-through;
+    background-color: transparent;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color:white;
+    border:none
+  
+}
+
+.not-checked{
+    /* background-color: #2ABB9C; */
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  
+}
