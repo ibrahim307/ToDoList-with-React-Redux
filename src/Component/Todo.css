@@ -47,10 +47,7 @@
 }
 .checked{
     text-decoration: line-through;
-    background-color: transparent;
-    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-    color:white;
-    border:none
+   
   
 }
 

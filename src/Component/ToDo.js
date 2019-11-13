@@ -50,7 +50,7 @@ class ToDo extends Component {
               className="btn btn-success mb-2"
               onClick={() =>{this.props.addList(this.state.inputList);this.setState({inputList:""})}}
             >
-              Add
+             <i class="fas fa-plus"></i>
             </button>
           </div>
          
